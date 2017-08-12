@@ -1,0 +1,46 @@
+body {
+    background: url('../images/tumblr_nkjrjvUSgT1qgoy1ro1_400.gif');
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-repeat: repeat-y;
+    background-attachment: fixed;
+    font-family: 'Shrikhand', cursive;
+}
+
+h1 {
+    font-family: 'Shrikhand', cursive;
+
+}
+
+.ratings {
+    color: yellow;
+    font-family: 'Shrikhand', cursive;
+    font-size: 20px;
+}
+
+h1 {
+    color: white;
+    font-size: 45px;
+}
+
+.btn-primary {
+    margin-left: 10px;
+    background: fuchsia;
+    color: chartreuse;
+}
+
+#add-cartoon {
+    background: chartreuse;
+    color: fuchsia;
+}
+
+.form-control {
+    width: 30%;
+}
+
+#add {
+    font-size: 25px;
+    color: white;
+}
